@@ -36,6 +36,8 @@ https://github.com/vulcanlee/Xamarin0315.git
 
 https://github.com/vulcanlee/Xamarin170311.git
 
+https://github.com/vulcanlee/Xamarin170504.git
+
 https://github.com/vulcanlee/VulcanGitHub.git
 
 https://github.com/vulcanlee/Parallel_Asynchronous_Sample.git
