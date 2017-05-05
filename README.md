@@ -28,6 +28,8 @@ https://github.com/vulcanlee/XF-Course.git
 
 https://github.com/vulcanlee/XFCourse3.git
 
+https://github.com/vulcanlee/UITest.git
+
 
 
 https://github.com/vulcanlee/Xamarin0315.git
