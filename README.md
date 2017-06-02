@@ -62,6 +62,8 @@ https://git.gitbook.com/vulcanlee/xamarin-forms-develop-notes.git
 
 https://git.gitbook.com/vulcanlee/xamarin-forms.git
 
+https://git.gitbook.com/vulcanlee/csharpoop.git
+
 
 
 
