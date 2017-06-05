@@ -64,7 +64,7 @@ https://git.gitbook.com/vulcanlee/xamarin-forms.git
 
 https://git.gitbook.com/vulcanlee/csharpoop.git
 
-
+https://github.com/vulcanlee/XamarinHandsOnLabBuild.git
 
 
 
