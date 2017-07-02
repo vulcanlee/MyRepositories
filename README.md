@@ -32,6 +32,9 @@ https://github.com/vulcanlee/UITest.git
 
 
 
+
+https://github.com/vulcanlee/Xamarin170704
+
 https://github.com/vulcanlee/Xamarin0315.git
 
 https://github.com/vulcanlee/Xamarin170311.git
