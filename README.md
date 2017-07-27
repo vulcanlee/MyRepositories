@@ -32,6 +32,8 @@ https://github.com/vulcanlee/UITest.git
 
 https://github.com/vulcanlee/UserControlChallenge.git
 
+https://github.com/vulcanlee/CellChallenge.git
+
 
 https://github.com/vulcanlee/Xamarin170704
 
