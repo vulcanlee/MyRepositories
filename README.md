@@ -73,7 +73,7 @@ https://git.gitbook.com/vulcanlee/csharpoop.git
 
 https://github.com/vulcanlee/XamarinHandsOnLabBuild.git
 
-
+https://git.gitbook.com/vulcanlee/xamarnformsworkshop.git
 
 
 
