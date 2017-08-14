@@ -36,7 +36,6 @@ https://github.com/vulcanlee/CellChallenge.git
 
 https://github.com/vulcanlee/ViewModelCodeBehind.git
 
-
 https://github.com/vulcanlee/Xamarin170704
 
 https://github.com/vulcanlee/Xamarin0315.git
@@ -50,6 +49,8 @@ https://github.com/vulcanlee/VulcanGitHub.git
 https://github.com/vulcanlee/Parallel_Asynchronous_Sample.git
 
 https://github.com/vulcanlee/XamarinAzureDayLab.git
+
+https://github.com/vulcanlee/CSharpNotes.git
 
 # GitBook
 
