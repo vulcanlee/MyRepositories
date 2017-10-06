@@ -56,6 +56,8 @@ https://github.com/vulcanlee/CSharpAdvanceCourse.git
 
 https://github.com/vulcanlee/CSharpOOP.git
 
+https://github.com/vulcanlee/CSharpCore.git
+
 # GitBook
 
 https://git.gitbook.com/vulcanlee/xamarinhandsonlab.git
