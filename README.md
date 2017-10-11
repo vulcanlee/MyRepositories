@@ -58,6 +58,8 @@ https://github.com/vulcanlee/CSharpOOP.git
 
 https://github.com/vulcanlee/CSharpCore.git
 
+https://github.com/vulcanlee/CSharpOOPCore.git
+
 # GitBook
 
 https://git.gitbook.com/vulcanlee/xamarinhandsonlab.git
