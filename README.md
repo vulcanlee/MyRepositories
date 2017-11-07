@@ -60,7 +60,7 @@ https://github.com/vulcanlee/CSharpCore.git
 
 https://github.com/vulcanlee/CSharpOOPCore.git
 
-https://github.com/vulcanlee/DotNetCoreHttp.git
+https://github.com/vulcanlee/DotNetCoreHttpClient.git
 
 # GitBook
 
