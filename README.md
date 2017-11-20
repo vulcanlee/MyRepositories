@@ -62,6 +62,8 @@ https://github.com/vulcanlee/CSharpOOPCore.git
 
 https://github.com/vulcanlee/DotNetCoreHttpClient.git
 
+https://github.com/vulcanlee/Xamarin171118
+
 # GitBook
 
 https://git.gitbook.com/vulcanlee/xamarinhandsonlab.git
