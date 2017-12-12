@@ -64,6 +64,10 @@ https://github.com/vulcanlee/DotNetCoreHttpClient.git
 
 https://github.com/vulcanlee/Xamarin171118
 
+# C# 課程相關
+
+https://github.com/vulcanlee/DotnetCore.git
+
 # GitBook
 
 https://git.gitbook.com/vulcanlee/xamarinhandsonlab.git
