@@ -68,7 +68,7 @@ https://github.com/vulcanlee/Xamarin171118
 
 https://github.com/vulcanlee/DotnetCore.git
 
-https://github.com/vulcanlee/MyNetStandard.git
+https://github.com/vulcanlee/DotnetCoreContosoPack.git
 
 # GitBook
 
