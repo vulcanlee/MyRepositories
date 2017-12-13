@@ -71,6 +71,11 @@ https://github.com/vulcanlee/DotnetCore.git
 https://github.com/vulcanlee/DotnetCoreContosoPack.git
 
 https://miniasp.visualstudio.com/DefaultCollection/DotNETCoreForNovice/DotNETCoreForNovice%20Team/_git/DotNETCoreForNovice
+https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpBasic
+https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpCore
+https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpAdvanced
+https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpOOPCore
+
 
 # GitBook
 
