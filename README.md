@@ -70,6 +70,8 @@ https://github.com/vulcanlee/DotnetCore.git
 
 https://github.com/vulcanlee/DotnetCoreContosoPack.git
 
+https://miniasp.visualstudio.com/DefaultCollection/DotNETCoreForNovice/DotNETCoreForNovice%20Team/_git/DotNETCoreForNovice
+
 # GitBook
 
 https://git.gitbook.com/vulcanlee/xamarinhandsonlab.git
