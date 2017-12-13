@@ -52,13 +52,16 @@ https://github.com/vulcanlee/XamarinAzureDayLab.git
 
 https://github.com/vulcanlee/CSharpNotes.git
 
-https://github.com/vulcanlee/CSharpAdvanceCourse.git
 
-https://github.com/vulcanlee/CSharpOOP.git
 
-https://github.com/vulcanlee/CSharpCore.git
+* https://github.com/vulcanlee/CSharpAdvanceCourse.git
+* https://github.com/vulcanlee/CSharpOOP.git
+* https://github.com/vulcanlee/CSharpCore.git
+* https://github.com/vulcanlee/CSharpOOPCore.git
 
-https://github.com/vulcanlee/CSharpOOPCore.git
+> 以上四個，將會移除 2017.12.13
+
+
 
 https://github.com/vulcanlee/DotNetCoreHttpClient.git
 
@@ -69,7 +72,6 @@ https://github.com/vulcanlee/Xamarin171118
 https://github.com/vulcanlee/DotnetCore.git
 
 https://github.com/vulcanlee/DotnetCoreContosoPack.git
-
 https://miniasp.visualstudio.com/DefaultCollection/DotNETCoreForNovice/DotNETCoreForNovice%20Team/_git/DotNETCoreForNovice
 https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpBasic
 https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpCore
