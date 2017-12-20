@@ -77,6 +77,9 @@ https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpBasic
 https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpCore
 https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpAdvanced
 https://miniasp.visualstudio.com/CoolRare_CSharp_Courses/_git/CSharpOOPCore
+https://miniasp.visualstudio.com/DefaultCollection/CoolRare_CSharp_Courses/_git/CSharpDesignPatterns
+https://miniasp.visualstudio.com/DefaultCollection/CoolRare_CSharp_Courses/_git/XamarinLOBForms
+https://miniasp.visualstudio.com/DefaultCollection/CoolRare_CSharp_Courses/_git/XamarinLOBTask
 
 
 # GitBook
