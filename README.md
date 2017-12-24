@@ -81,6 +81,9 @@ https://miniasp.visualstudio.com/DefaultCollection/CoolRare_CSharp_Courses/_git/
 https://miniasp.visualstudio.com/DefaultCollection/CoolRare_CSharp_Courses/_git/XamarinLOBForms
 https://miniasp.visualstudio.com/DefaultCollection/CoolRare_CSharp_Courses/_git/XamarinLOBTask
 
+# 對外演講
+
+https://github.com/vulcanlee/Study4TW2018.git
 
 # GitBook
 
