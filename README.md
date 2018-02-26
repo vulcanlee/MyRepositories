@@ -52,6 +52,9 @@ https://github.com/vulcanlee/XamarinAzureDayLab.git
 
 https://github.com/vulcanlee/CSharpNotes.git
 
+https://github.com/vulcanlee/XFCommon.git
+
+
 
 
 * https://github.com/vulcanlee/CSharpAdvanceCourse.git
