@@ -56,6 +56,8 @@ https://github.com/vulcanlee/XFCommon.git
 
 https://github.com/vulcanlee/xamarin-forms-sample2018.git
 
+https://github.com/vulcanlee/Xamarin2018.git
+
 
 * https://github.com/vulcanlee/CSharpAdvanceCourse.git
 * https://github.com/vulcanlee/CSharpOOP.git
