@@ -60,6 +60,9 @@ https://github.com/vulcanlee/Xamarin2018.git
 
 https://github.com/vulcanlee/CSharpNotes2018.git
 
+https://github.com/vulcanlee/XFWorkshop2018.git
+
+
 
 
 
